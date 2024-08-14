@@ -1,4 +1,4 @@
-# Broxus atomic-swap network
+# Atomic-swap network
 
 This repo contains the list of smart contracts and additional tools, which allows anyone to perform atomic swaps with assets, issued on the following blockchains:
 
